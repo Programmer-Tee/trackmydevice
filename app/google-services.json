@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "682044992644",
+    "firebase_url": "https://mapmylocation-2c924.firebaseio.com",
+    "project_id": "mapmylocation-2c924",
+    "storage_bucket": "mapmylocation-2c924.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682044992644:android:3b6479d6294fc137",
+        "android_client_info": {
+          "package_name": "com.example.tobeisun.mapmylocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682044992644-a6ucljmdbeveocev8vt3ldg60td89fvt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tobeisun.mapmylocation",
+            "certificate_hash": "fff0086970d92096da014c94716c17ff1bc73d8e"
+          }
+        },
+        {
+          "client_id": "682044992644-k55lfltkf4ahogaaebd065g8nnlj6q0b.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "682044992644-k55lfltkf4ahogaaebd065g8nnlj6q0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARB3sVyBkwV2JXjRcsxPbAEIZJorgzNA8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682044992644-k55lfltkf4ahogaaebd065g8nnlj6q0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682044992644:android:9e084163f9e7ccb5",
+        "android_client_info": {
+          "package_name": "com.example.tobeisun.trackmydevice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682044992644-4jf131dj9uph871v0t8aomq9756jd4q1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tobeisun.trackmydevice",
+            "certificate_hash": "fff0086970d92096da014c94716c17ff1bc73d8e"
+          }
+        },
+        {
+          "client_id": "682044992644-k55lfltkf4ahogaaebd065g8nnlj6q0b.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "682044992644-k55lfltkf4ahogaaebd065g8nnlj6q0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARB3sVyBkwV2JXjRcsxPbAEIZJorgzNA8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682044992644-k55lfltkf4ahogaaebd065g8nnlj6q0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
